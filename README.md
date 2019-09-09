@@ -64,4 +64,5 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 
 ## 01 - Linear Regression/Least Squares
 
+* [pdf slides](/handouts/handout-01-linear-regression.pdf)
 
