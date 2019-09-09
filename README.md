@@ -40,7 +40,7 @@ processing.
 
 # Handouts
 
-handouts and videos from last years an be found [here (2017/18)](https://frcs.github.io/4C16-2017) and [here (2018/19)](https://frcs.github.io/4C16). This year the lectures will not be recorded.
+handouts and videos from last years an be found [here (2017/18)](https://github.com/frcs/4C16-2017) and [here (2018/19)](https://github.com/frcs/4C16). This year the lectures will not be recorded.
 
 ## labs
 
