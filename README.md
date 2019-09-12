@@ -66,3 +66,6 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 
 * [pdf slides](/handouts/handout-01-linear-regression.pdf)
 
+## 02 - Logistic Regression
+
+* [pdf slides](/handouts/handout-02-logistic-regression.pdf)
