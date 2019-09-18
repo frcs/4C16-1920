@@ -74,7 +74,7 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
-* [Review-regression]
+* [Review-regression](/handouts/Review-regression.pdf)
 
 ## 03 - Know your classics
 
