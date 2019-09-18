@@ -74,3 +74,8 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 ## 02 - Logistic Regression
 
 * [pdf slides](/handouts/handout-02-logistic-regression.pdf)
+* [Review-regression]
+
+## 03 - Know your classics
+
+k-NN, Decision Trees, SVM and Kernel Trick
