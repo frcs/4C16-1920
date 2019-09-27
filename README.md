@@ -84,4 +84,5 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 04 - Comparing Classifiers
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
+* [pdf tutorial](/handouts/tutorial-04-classifiers-evaluation.pdf)
 
