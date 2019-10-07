@@ -69,7 +69,7 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
    the discusssion on loss and error distribution.
 * [pdf tutorial on linear algebra](https://github.com/frcs/4C16-1920/blob/master/handouts/tutorial-00-linear-algebra.pdf)
 * [pdf tutorial on least squares](https://github.com/frcs/4C16-1920/blob/master/handouts/tutorial-01-linear-regression.pdf)
-* [solution-tutorial on linear algebra](https://github.com/frcs/4C16-1920/blob/master/handouts/solution-tutorial on linear algebra.pdf)
+* [solution-tutorial on linear algebra](https://github.com/frcs/4C16-1920/blob/master/handouts/solution-tutorial-on-linear-algebra.pdf)
 * [solution-tutorial on least squares](https://github.com/frcs/4C16-1920/blob/master/handouts/tutorial-01-linear-regression.solutions.pdf)
 
 ## 02 - Logistic Regression
