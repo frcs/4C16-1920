@@ -91,3 +91,6 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 05 - FeedForward Neural Networks
 * [pdf slides](/handouts/handout-05-deep-feedforward-networks.pdf)
 * [notes on neuron](/handouts/notes_deep_feedforward.pdf)
+
+## 06 - Convolutional Neural Networks
+* [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
