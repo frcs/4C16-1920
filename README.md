@@ -82,6 +82,7 @@ George Sterpu is compiling a list of frequently asked questions & answers on his
 k-NN, Decision Trees, SVM and Kernel Trick
 * [pdf slides](/handouts/handout-03-classic-classifiers.pdf)
 * [notes on kernel trick](/handouts/notes_kerneltrick.pdf)
+* [notes on parametric and non parametric methods](/handouts/Parametric_vs_nonparametric.pdf)
 
 ## 04 - Comparing Classifiers
 * [pdf slides](/handouts/handout-04-evaluating-classifier-performance.pdf)
