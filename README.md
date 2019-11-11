@@ -95,3 +95,6 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 06 - Convolutional Neural Networks
 * [pdf slides](/handouts/handout-06-convolutional-neural-networks.pdf)
 * [notes on Conv-NN](/handouts/notes_on_conv.pdf)
+
+## 07 - Advances in Network Architectures
+* [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
