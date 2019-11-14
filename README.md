@@ -98,3 +98,4 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 07 - Advances in Network Architectures
 * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
+* [notes on transfer learning](handouts/transfer_learning-merged.pdf)
