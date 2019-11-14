@@ -99,3 +99,6 @@ k-NN, Decision Trees, SVM and Kernel Trick
 ## 07 - Advances in Network Architectures
 * [pdf slides](/handouts/handout-07-advances-in-network-architectures.pdf)
 * [notes on transfer learning](handouts/transfer_learning-merged.pdf)
+
+## 08 - Recurrent Neural Networks
+* [pdf slides](/handouts/handout-09-recurrent-neural-networks.pdf)
