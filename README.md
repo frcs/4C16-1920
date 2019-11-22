@@ -105,4 +105,4 @@ k-NN, Decision Trees, SVM and Kernel Trick
 * [notes on RNNs](/handouts/rnn.pdf)
 
 ## 09 - Auto-Encoders
-[pdf slides](/handouts/auto_encoder.pdf)
+* [pdf slides](/handouts/auto_encoder.pdf)
