@@ -102,3 +102,7 @@ k-NN, Decision Trees, SVM and Kernel Trick
 
 ## 08 - Recurrent Neural Networks
 * [pdf slides](/handouts/handout-09-recurrent-neural-networks.pdf)
+* [notes on RNNs](/handouts/rnn.pdf)
+
+## 09 - Auto-Encoders
+[pdf slides](/handouts/auto_encoder.pdf)
